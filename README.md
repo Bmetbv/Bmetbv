@@ -1,7 +1,7 @@
 - 👋 Hi, I’m regisemmanuel
-- 👀 I’m interested in code
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in computer coding
+- 🌱 I’m currently learning self-taught
+- 💞️ I’m looking to collaborate on the Web
 - 📫 How to reach me bmetbv@gmail.com
 
 <!---
