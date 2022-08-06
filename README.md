@@ -1,4 +1,4 @@
-- 👋 Hi, I’m regisemmanuel
+- 👋 Hi, I’m regis emmanuel
 - 👀 I’m interested in computer coding
 - 🌱 I’m currently learning self-taught
 - 💞️ I’m looking to collaborate on the Web
